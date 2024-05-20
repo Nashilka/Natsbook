@@ -12,4 +12,4 @@ name="username" required>
 placeholder="Enter Password"
 name="password" required>
 
-<b>DONE</b>
+<b><FONT COLOUR="DONE!"></b>
