@@ -12,6 +12,6 @@ name="username" required>
 placeholder="Enter Password"
 name="password" required>
 
-<div class="box">
+<div <table style="background-color:#33475b"> class="box">
   This is a box! 
 </div>
